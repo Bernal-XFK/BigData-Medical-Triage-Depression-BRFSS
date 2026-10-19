@@ -1,0 +1,12 @@
+# Dependencias principales del proyecto de Machine Learning y Big Data
+# Especialización en Big Data - Universidad CESMAG
+# Taller Práctico 02: Triaje Médico y Detección de Depresión (CDC BRFSS 2024)
+
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+requests>=2.28.0
+openpyxl>=3.1.0

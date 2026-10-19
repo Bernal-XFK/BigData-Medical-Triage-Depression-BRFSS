@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter & IPython Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets y descargas temporales del CDC BRFSS (Evitar subir archivos masivos a GitHub)
+*.csv
+*.zip
+*.xpt
+*.parquet
+*.feather
+data_brfss_temp/
+extract_temp/
+temp_cdc/
+LLCP*.zip
+LLCP*.xpt
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
